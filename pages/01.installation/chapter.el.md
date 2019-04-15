@@ -1,5 +1,5 @@
 ---
-title: 'Εγκατάσταση και χρήση διακομιστή ιστοσελίδων'
+title: Εγκατάσταση
 media_order: debian-logo.png
 taxonomy:
     category: docs
