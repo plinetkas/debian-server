@@ -6,6 +6,6 @@ taxonomy:
 child_type: docs
 ---
 
-# Debian Stretch
-Εγκατάσταση του λειτουργικού συστήματος
+# Εγκατάσταση λειτουργικού συστήματος
+Debian Stretch
 ![](debian-logo.png)
