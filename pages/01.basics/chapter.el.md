@@ -5,8 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Εγκατάσταση του λειτουργικού συστήματος
-
-# Basics
+# Εγκατάσταση του λειτουργικού συστήματος
 
 Discover the **_basic_** principles
