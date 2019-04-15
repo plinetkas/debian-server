@@ -1,11 +1,11 @@
 ---
-title: Εγκατάσταση
+title: 'Εγκατάσταση του λειτουργικού συστήματος'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 1
+### Εγκατάσταση του λειτουργικού συστήματος
 
 # Basics
 
