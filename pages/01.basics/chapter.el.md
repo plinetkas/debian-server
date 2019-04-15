@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Εγκατάσταση
 taxonomy:
     category: docs
 child_type: docs
