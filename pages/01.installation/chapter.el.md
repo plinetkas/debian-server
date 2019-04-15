@@ -1,5 +1,5 @@
 ---
-title: Εγκατάσταση
+title: 'Εγκατάσταση βασικού συστήματος'
 media_order: debian-logo.png
 taxonomy:
     category: docs
