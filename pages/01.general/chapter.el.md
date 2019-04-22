@@ -1,5 +1,5 @@
 ---
-title: Εγκατάσταση
+title: Γενικά
 media_order: debian-logo.png
 taxonomy:
     category: docs
